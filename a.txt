@@ -1,3 +1,5 @@
 learning git
 
 added changes
+
+modified changes in a.txt
