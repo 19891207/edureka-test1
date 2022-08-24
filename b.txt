@@ -1,3 +1,5 @@
 created b.txt file
 
+added changes in b.txt 
+
 modified changes in b.txt
